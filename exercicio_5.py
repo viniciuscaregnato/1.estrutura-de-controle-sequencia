@@ -1,4 +1,4 @@
-"""exercicio 4
+"""exercicio 5
 autor: vinicius
 instruçao: calcule o salario de um professor horista na Universidade XYZ. O programa deve perguntar o n´umero de horas trabalhadas, calcular e imprimir na tela o valor do sa´ario bruto,
 do salario lıquido e do total de descontos, sabendo que o desconto do imposto é 30% e
